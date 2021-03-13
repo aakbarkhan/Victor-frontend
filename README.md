@@ -55,8 +55,8 @@ The default Ghost version that is used for this starter is `3.x`. If your Ghost 
 **Ghost >=2.10.0 <3.0.0**
 ```json
 {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0",
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "2b036f800d1c53f39b5f9d96ba",
     "version": "v2"
 }
 ```
@@ -64,8 +64,8 @@ The default Ghost version that is used for this starter is `3.x`. If your Ghost 
 **Ghost >=3.0.0**
 ```json
 {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "2b036f800d1c53f39b5f9d96ba"
 }
 ```
 
